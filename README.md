@@ -10,3 +10,6 @@ Briefly below steps need to be performed, and necessary files index.html, styles
 This project can be completed staying within AWS free tier.
 
 A user will be able to access a static website hosted in S3 bucket, and view and create events lists, also user can subscribe to event notification list. API will be handling back end processing.
+
+
+Obaid added to this project
